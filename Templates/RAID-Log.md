@@ -2,20 +2,30 @@
 
 ## Risks
 
-| ID | Description | Owner | Status |
-|----|-------------|-------|--------|
+| ID | Risk | Owner | Status |
+|----|------|-------|--------|
+| R001 | Resource Availability | PM | Open |
+
+---
 
 ## Assumptions
 
-| ID | Description | Owner | Status |
-|----|-------------|-------|--------|
+| ID | Assumption | Owner |
+|----|------------|-------|
+| A001 | Requirements remain stable | BA |
+
+---
 
 ## Issues
 
-| ID | Description | Owner | Status |
-|----|-------------|-------|--------|
+| ID | Issue | Owner | Status |
+|----|-------|-------|--------|
+| I001 | Delay in client feedback | PM | Open |
+
+---
 
 ## Dependencies
 
-| ID | Description | Owner | Status |
-|----|-------------|-------|--------|
+| ID | Dependency | Owner |
+|----|------------|-------|
+| D001 | API Delivery | Development Team |
