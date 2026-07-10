@@ -1,1 +1,5 @@
 
+| Risk ID | Risk Category | Risk Description          | Probability | Impact | Risk Score | Owner | Mitigation Plan | Contingency Plan | Status | Target Date | Comments                  |
+| ------- | ------------- | ------------------------- | ----------- | ------ | ---------- | ----- | --------------- | ---------------- | ------ | ----------- | ------------------------- |
+| R001    | Resource      | Key developer unavailable | High        | High   | 9          | PM    | Cross-training  | Backup developer | Open   | 15-Jul-2026 | Monitor weekly            |
+| R002    | Schedule      | Delay in requirements     | Medium      | High   | 6          | BA    | Early workshops | Re-plan sprint   | Open   | 18-Jul-2026 | Client discussion pending |
